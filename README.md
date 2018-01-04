@@ -41,3 +41,6 @@
 #### 3.資料確保正確
 ## 甘特圖
 ![](gantter.png)
+## 報告
+### 期中報告雲端 https://goo.gl/q885FF
+### 期末報告雲端 https://goo.gl/gBVDLd
